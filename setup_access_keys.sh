@@ -1,0 +1,2 @@
+export AWS_ACCESS_KEY="olan"
+export AWS_SECRET_ACCESS_KEY="ovWVGMHV5TE3bW3x"
